@@ -1,0 +1,7 @@
+Esta é a primeira linha
+esta é a segunda 
+a terceira 
+e a quarta.
+
+agora vou salvar este arquivo com o nome de teste.txt
+
